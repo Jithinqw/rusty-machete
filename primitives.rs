@@ -1,6 +1,7 @@
 /*
 * primitive types for rust
 */
+#[allow(unused_variables)]
 fn main() {
     let logical: bool = true;
     let points: f64 = 93.32;

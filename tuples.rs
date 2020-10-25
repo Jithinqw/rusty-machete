@@ -1,6 +1,8 @@
 /*
 * function for rust tuples.
 * rust tuples are datastructure which can store any type of data types.
+* tuples are not iteratable, it does not have methods such as len etc.
+* into_iter() method is also not available
 */
 
 // A function to reverse the (i32, bool) pair
